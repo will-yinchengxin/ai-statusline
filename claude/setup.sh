@@ -61,7 +61,7 @@ fi
 
 # ── Download statusline.sh ─────────────────────────────────────────
 echo "⬇️  Downloading statusline script..."
-curl -fsSL "https://raw.githubusercontent.com/will-yinchengxin/claude-statusline/refs/heads/main/claude/statusline.sh" -o "$DEST"
+curl -fsSL "https://raw.githubusercontent.com/will-yinchengxin/ai-statusline/refs/heads/main/claude/statusline.sh" -o "$DEST"
 chmod +x "$DEST"
 
 # ── Wire up settings.json ──────────────────────────────────────────

@@ -48,7 +48,7 @@ claude-statusline/
 **前提条件：** `bash`、`curl`、`jq`（安装脚本会尝试自动安装）、`git`（可选）、`python3`（推荐）
 
 ```bash
-curl -sL https://raw.githubusercontent.com/will-yinchengxin/claude-statusline/refs/heads/main/claude/setup.sh | bash
+curl -sL https://raw.githubusercontent.com/will-yinchengxin/ai-statusline/refs/heads/main/claude/setup.sh | bash
 ```
 
 安装过程会：
